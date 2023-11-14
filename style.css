@@ -1,0 +1,117 @@
+body {
+    background-image:
+    url("images/background.jpg");
+  }
+.ustbar {
+    background: none;
+}
+.ustbaryazi {
+    color: rgb(39, 39, 39);
+    font-size: 28;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+.ustbar2 {
+    width: 1200px;
+    height: 20px;
+
+}
+
+.ustbar2yazi {
+    text-align: left;
+    color: rgb(39, 39, 39);
+    font-size: 14;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    margin-bottom: -12px;
+}
+.ustbar2button {
+    float: right;
+    background: none;
+    border: none;
+    font-size: 12;
+    -webkit-transition-duration: 0.8s;
+    transition-duration: 0.8s;
+}
+.ustbar2button:hover {
+    border-radius: 8px;
+    background-color: #e67e22;
+    color: white;
+}
+.ustbar3kaplama {
+    border: 0.01px solid rgb(173, 173, 173);
+    transition: border-color 0.3s;
+}
+.ustbar3 {
+    background-color: none;
+    height: 120px;
+    width: 1200px;
+
+}
+.ustbar3kaplama:hover {
+    border-color: #e67e22;
+    color: white;
+    border-radius: 200px;
+}
+.ustbar4 {
+    background-color: none;
+    height: 92px;
+    width: 1200px;
+}
+.ustbar4button {
+    height: 40px;
+    width: 102px;
+    background: none;
+    border: none;
+    font-size: 16;
+    -webkit-transition-duration: 0.4s; 
+    transition-duration: 0.4s;
+}
+.ustbar4button:hover {
+    border-radius: 8px;
+    background-color: #e67e22;
+    color: white;
+}
+.icbar {
+    text-align: center;
+    width: 800px;
+    height: 120px;
+}
+.logo {
+    height: 120px;
+    float: center;
+}
+.ortabar {
+    height: 480px;
+    width: 800px;
+}
+.ortabarresim {
+    float: left;
+    height: 480px;
+}
+.ortabaryazi {
+    color: rgb(39, 39, 39);
+    font-weight: bold;
+    font-size: 32;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+.iletisimlogo {
+    height: 160px;
+    width: 160px;
+    float: left;
+}
+.iletisimyazi {
+    color: rgb(39, 39, 39);
+    font-weight: bold;
+    font-size: 32;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+.iletisimkutulari {
+    border: 0.1px solid rgb(78, 78, 78);
+    height: 160px;
+    width: 800px;
+}
+.hakkimizdayazi {
+        color: rgb(39, 39, 39);
+        font-weight: bold;
+        font-size: 32;
+        font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    }
